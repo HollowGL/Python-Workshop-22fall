@@ -12,7 +12,7 @@ URL:https://mp.weixin.qq.com/s/pLLQyXCWP9zdag4L0QGh0g
 * 文本处理基础
 * 有监督机器学习
 * 无监督机器学习
-* 图像分析（文件太大吗，没法push）
+* 图像分析（文件太大，没法push）
 * 网页爬虫
 
 
